@@ -1,4 +1,1 @@
-This
-fie
-is
-fixed
+Fixed and merged
