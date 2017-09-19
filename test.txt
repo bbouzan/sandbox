@@ -1,6 +1,4 @@
 This
-file
-has
-1
-lines
-1
+fie
+is
+fixed
