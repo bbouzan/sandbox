@@ -1,8 +1,7 @@
 This
 file
 has
-3
+2
 lines
 1
 2
-3
